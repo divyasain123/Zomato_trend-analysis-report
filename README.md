@@ -9,7 +9,6 @@ This project implements an agentic AI pipeline to analyze Google Play Store revi
 
 The system ingests daily review batches and produces a trend table showing how issues, requests, and feedback evolve across dates.
 
----
 
 ## Approach
 
@@ -20,7 +19,6 @@ The system ingests daily review batches and produces a trend table showing how i
 - Daily topic counts are aggregated into a trend report.
 
 
----
 
 ## Output
 
@@ -30,5 +28,3 @@ The output is a table where:
 - Cell values indicate topic frequency on that date
 
 Sample outputs are provided in the `/output` folder.
-
-
